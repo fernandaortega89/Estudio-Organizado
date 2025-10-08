@@ -7,4 +7,4 @@ Martina Cortés -
 Fernanda Ortega
 
 Descripción del proyecto:
-Desarrollar una aplicación web que permita a los estudiantes organizar y gestionar de manera centralizada sus actividades académicas diarias y semanales, a través de una simulación de  calendario interactivo.
+Desarrollar una aplicación web que permita a los estudiantes organizar y gestionar de manera centralizada sus actividades académicas diarias y semanales, a través de una simulación de  calendario interactivo, un sistema de notificaciones automáticas y una planificación personalizada por asignaturas, con el propósito de optimizar la administración del tiempo y mejorar el rendimiento académico.
